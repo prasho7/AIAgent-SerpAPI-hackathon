@@ -1,0 +1,1 @@
+"""Workflow placeholders for ScoutAI."""

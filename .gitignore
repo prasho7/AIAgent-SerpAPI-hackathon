@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.streamlit/secrets.toml
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+.vscode/settings.json
+
+# Keep the example environment file tracked.
+!.env.example

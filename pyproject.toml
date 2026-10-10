@@ -1,0 +1,10 @@
+[project]
+name = "scoutai-live-decision-agent"
+version = "0.1.0"
+description = "ScoutAI live research and decision agent scaffold"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
